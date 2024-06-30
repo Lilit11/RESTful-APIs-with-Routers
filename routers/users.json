@@ -1,0 +1,20 @@
+[
+  {
+    "userId": 505,
+    "name": "Mark Menson",
+    "email": "Mark@example.com",
+    "role": "PM"
+  },
+  {
+    "userId": 503,
+    "name": "Alice Johnson",
+    "email": "alice.johnson@example.com",
+    "role": "UX/UI Designer"
+  },
+  {
+    "userId": 504,
+    "name": "David Harutyunyan",
+    "email": "david@example.com",
+    "role": "backend developer"
+  }
+]

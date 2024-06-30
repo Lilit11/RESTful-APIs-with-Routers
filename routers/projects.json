@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1001,
+    "name": "Website Redesign",
+    "description": "Complete overhaul of the corporate website to improve user interface and overall user experience.",
+    "startDate": "2024-07-01",
+    "endDate": "2024-12-31",
+    "status": "In Progress",
+    "budget": 75000,
+    "currency": "USD",
+    "team": [
+      503,
+      505,
+      504
+    ],
+    "tasks": [
+      102
+    ]
+  },
+  {
+    "id": 1002,
+    "name": "Website Redesign",
+    "description": "Complete overhaul of the corporate website to improve user interface and overall user experience.",
+    "startDate": "2024-07-01",
+    "endDate": "2024-12-31",
+    "status": "In Progress",
+    "budget": 75000,
+    "currency": "USD",
+    "team": [
+      503,
+      505,
+      504
+    ],
+    "tasks": [
+      102
+    ]
+  },
+  {
+    "id": 1003,
+    "name": "Website Redesign",
+    "description": "Complete overhaul of the corporate website to improve user interface and overall user experience.",
+    "startDate": "2024-07-01",
+    "endDate": "2024-12-31",
+    "status": "In Progress",
+    "budget": 75000,
+    "currency": "USD",
+    "team": [
+      503
+    ],
+    "tasks": []
+  },
+  {
+    "id": 1005,
+    "name": "Website Redesign",
+    "description": "Complete overhaul of the corporate website to improve user interface and overall user experience.",
+    "startDate": "2024-07-01",
+    "endDate": "2024-12-31",
+    "status": "In Progress",
+    "budget": 75000,
+    "currency": "USD",
+    "team": [
+      503
+    ],
+    "tasks": []
+  }
+]
